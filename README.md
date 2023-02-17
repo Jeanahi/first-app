@@ -1,5 +1,4 @@
-# my-app.Portillo-
-proyecto react native con emulador 
+# my-app.Portillo- 
 primer desafio para entregar
 se basa en utilizar react native por primera vez
 utilizar expo
